@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yw+eVIA60IPwdUGaBgzeMqkfCIsW7KNvcxYgDdycyacdI8/AZyervPgSPxBXIX+pFiXuHNbB4Mehdkdpu3MSBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gianc\\OneDrive\\Escritorio\\2024-5°7\\DeliveryFINALL\\DeliveryFINALL.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gianc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\gianc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\gianc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\gianc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
